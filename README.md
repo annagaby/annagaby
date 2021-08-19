@@ -1,7 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on a ✨Shiny App✨ to make ecological restoration in the Galapagos more efficient
-- 🌱 I’m currently learning how to build websites using R
+- 🔭 I’m currently working on a Shiny App✨ to make ecological restoration in the Galapagos more efficient
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love practicing aerial acrobatics (silks, lyra, hammock)
 
